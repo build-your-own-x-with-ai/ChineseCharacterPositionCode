@@ -1,0 +1,29 @@
+/* 
+ Localizable.strings
+ ChineseCharacterPositionCode
+*/
+
+// Tab titles
+"TAB_CODE_TABLE" = "Code Table";
+"TAB_INSTRUCTIONS" = "Instructions";
+
+// Code Table View
+"CODE_TABLE_TITLE" = "GB2312 Position Code Table";
+"CODE_TABLE_SEARCH_PLACEHOLDER" = "Enter position code (e.g. 1601)";
+"CODE_TABLE_AREA_PICKER" = "Select Area";
+
+// Character Card
+"CHARACTER_DETAIL_TITLE" = "Character Details";
+"COPY_POSITION_CODE" = "Copy Position Code";
+"COPY_CHINESE_CHARACTER" = "Copy Chinese Character";
+
+// Instructions View
+"WHAT_IS_POSITION_CODE" = "What is Position Code?";
+"HOW_TO_USE_KEYBOARD" = "How to Use Keyboard?";
+"HOW_TO_ADD_KEYBOARD" = "How to Add Keyboard?";
+"OPEN_KEYBOARD_SETTINGS" = "Open Keyboard Settings";
+"COMMON_CHARACTERS_REFERENCE" = "Common Characters Reference";
+
+// Position Code Description
+"POSITION_CODE_DESCRIPTION_FORMAT" = "Area %@ Position %@";
+"AREA_NUMBER_FORMAT" = "Area %@";

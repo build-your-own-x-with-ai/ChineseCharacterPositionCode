@@ -1,0 +1,29 @@
+/* 
+ Localizable.strings
+ ChineseCharacterPositionCode
+*/
+
+// Tab titles
+"TAB_CODE_TABLE" = "码表查询";
+"TAB_INSTRUCTIONS" = "使用说明";
+
+// Code Table View
+"CODE_TABLE_TITLE" = "GB2312 区位码表";
+"CODE_TABLE_SEARCH_PLACEHOLDER" = "输入区位码（例如：1601）";
+"CODE_TABLE_AREA_PICKER" = "选择区";
+
+// Character Card
+"CHARACTER_DETAIL_TITLE" = "字符详情";
+"COPY_POSITION_CODE" = "复制区位码";
+"COPY_CHINESE_CHARACTER" = "复制汉字";
+
+// Instructions View
+"WHAT_IS_POSITION_CODE" = "什么是区位码？";
+"HOW_TO_USE_KEYBOARD" = "如何使用键盘？";
+"HOW_TO_ADD_KEYBOARD" = "如何添加键盘？";
+"OPEN_KEYBOARD_SETTINGS" = "打开键盘设置";
+"COMMON_CHARACTERS_REFERENCE" = "常用汉字区位码参考";
+
+// Position Code Description
+"POSITION_CODE_DESCRIPTION_FORMAT" = "%@区%@位";
+"AREA_NUMBER_FORMAT" = "第%@区";
